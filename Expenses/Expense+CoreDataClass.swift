@@ -3,7 +3,7 @@
 //  Expenses
 //
 //  Created by David Auger on 11/27/17.
-//  Copyright © 2017 Tech Innovator. All rights reserved.
+//  Copyright © 2017 David Auger. All rights reserved.
 //
 //
 
